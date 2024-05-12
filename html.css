@@ -1,0 +1,52 @@
+.abc{
+    background-color: #87C48A;
+}
+
+.login{
+    height: 340px;
+    width: 400px;
+    border: 2px solid black;
+    margin-left: 550px;
+    margin-top: 100px;
+    padding: 100px 60px 100px 60px;
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 2px 2px 2px gray;
+}
+
+#email.form-control{
+    height: 40px;
+    width: 280px;
+    padding-left: 35px;
+    margin: -50px 0px 0px 0px;
+}
+
+#pwd.form-control{
+    height: 40px;
+    width: 280px;
+    padding-left: 35px;
+    margin: -38px 0px 0px 0px;
+}
+
+.iconuser{
+    padding-bottom: 12px;
+    padding-left: 12px;
+    background: transparent;
+    border-width: 0px;
+}
+
+.iconlock{
+    padding: 14px 6px 1px 6px;
+    padding-left: 12px;
+    background: transparent;
+    border-width: 0px;
+}
+
+.btn{
+    width: 280px;
+    margin: 0px 0px 40px 0px;
+}
+
+.alert{
+    cursor: pointer;    
+}
